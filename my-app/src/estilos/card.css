@@ -1,0 +1,154 @@
+
+  .fondoo1{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña1.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondoo2{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/cabaña1afuera.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondoo3{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/cabaña1afuera2.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondoo4{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña1sala.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondoo5{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña1sala2.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondoo6{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña1sala3.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondoo7{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña1sala4.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondoo8{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña1pieza.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondoo9{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña1cocina3.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+ 
+  .texto {
+    color: white;
+  }
+  
+  .precio {
+    color: white;
+    width: 65px;
+    background-color: rgba(1, 0, 0, 0.6);
+    border-radius: 10px;
+
+  }
+  .personas {
+    color: white;
+    width: 135px;
+    background-color: rgba(1, 0, 0, 0.6);
+    border-radius: 10px;
+    padding: 2px;
+  }
+  
+
+  .epacioDeArriba {
+    height: 120px;
+  }
+  
+  .alto {
+    height: 110px;
+  }
+.clic{
+  width: 10px;
+}
+.clic:hover{
+  color: rgb(51, 143, 51);
+}
+.clic2{
+  width: 10px;
+  margin-right: 299px;
+}
+.clic2:hover{
+  width: 10px;
+  color: rgb(51, 143, 51);
+}
+.nombre{
+  color: white;
+  background-color: rgba(1, 0, 0, 0.3);
+}
+.nombre:hover{
+  color: rgb(51, 143, 51);
+}
+button{
+  width: 20%;
+  min-width: 100px;
+  height: 30px;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  border: 1px solid white;
+  border-radius: 15px;
+  margin: 5px;
+  cursor: pointer;
+  transition: .5s, color .10s;
+  -webkit-transition: .5s, color .10s;
+  -moz-transition: .5s, color .10s;
+  background-color: rgba(1, 0, 0, 0.6);
+}
+button:hover{
+    transform: translatey(-5px);
+      -webkit-transform: translatey(-5px);
+      -moz-transform: translatey(-5px);
+}
+#boton{
+  background-color: rgba(1, 0, 0, 0.6);
+  width: 150px;
+  margin-top: 15px;
+  color: white;
+}
+#boton:hover{
+
+  color: rgb(51, 143, 51);
+}

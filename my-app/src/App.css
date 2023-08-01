@@ -1,0 +1,49 @@
+*{
+  width: 100%;
+}
+
+.App {
+  height: 500px;
+  width: 100%;
+  text-align: center;
+  background-image: url('./elias/portada.png');
+  background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  background-position: center;
+  background-color: rgba(1, 0, 0, 0.9); /* Color oscuro transparente (ajusta el valor de alfa para cambiar la intensidad) */
+}
+
+.Center{
+  height: 800px;
+  width: 100%;
+  background-color: lightgrey;
+}
+.Footer{
+  height: 470px;
+  width: 100%;
+  text-align: center;
+  background-image: url('./imagenes/Parque5.jpg');
+  background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  background-position: center;
+}
+.Footer2{
+  height: 1900px;
+  width: 100%;
+  text-align: center;
+  background-image: url('./template/Cabañas.png');
+  background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+  background-repeat: no-repeat; /* Evita que la imagen se repita */
+  background-position: center;
+}
+
+/*.App::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 500px;
+  background-color: rgba(0, 0, 0, 0.5); /* Color oscuro transparente (ajusta el valor de alfa para cambiar la intensidad) */
+/*}*/
+

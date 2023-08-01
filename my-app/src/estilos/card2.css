@@ -1,0 +1,74 @@
+
+.fondo1{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña2.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondo2{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña2a.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondo3{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña2b.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondo4{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña2c.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondo5{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña2d.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondo6{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña2e.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondo7{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña2f.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondo8{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña2g.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+  .fondo9{
+    height: 390px;
+    width: 100%;
+    background-image: url('../imagenes/Cabaña2h.jpg');
+    background-size: cover; /* La imagen se ajustará para cubrir todo el fondo */
+    background-repeat: no-repeat; /* Evita que la imagen se repita */
+    background-position: center;
+  }
+ 
